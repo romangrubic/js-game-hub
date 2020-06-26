@@ -1,1 +1,1 @@
-body{background:red}.large{font-size:4rem}
+body{background:#ccc}.selections{display:flex;justify-content:center}.selections .selection{background:none;border:none;outline:none;cursor:pointer;font-size:2rem;margin:10px;transition:0.2s}.selections .selection:hover{transform:scale(1.2)}.results{margin-top:1rem;display:grid;justify-content:center;grid-template-columns:repeat(2, 1fr);justify-items:center;align-items:center}.results .result-score{margin-left:0.1rem}.results .result-selection{opacity:0.5}.results .result-selection.winner{opacity:1;font-size:1.5rem}
